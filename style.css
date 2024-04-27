@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  section {
+    padding: 20px;
+  }
+  h1, h2, h3 {
+    color: #00f;
+  }
+  .container {
+    width: 80%;
+    margin: auto;
+  }
+  .skills {
+    list-style: none;
+    padding: 0;
+  }
+  .skills li {
+    margin-bottom: 10px;
+  }
+  .education, .certificates, .languages {
+    margin-bottom: 20px;
+  }
